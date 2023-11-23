@@ -51,7 +51,6 @@ nav_order: 4
 **Purpose:** Show all to-do lists.
 
 **Sample output:**
-
 ![get_lists() sample](../assets/images/fswd-intro_00.png)
 
 ---

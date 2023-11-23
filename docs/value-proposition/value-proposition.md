@@ -4,7 +4,7 @@ nav_order: 1
 ---
 
 {: .label }
-[Jane Dane]
+Vorname Nachname
 
 # [Value proposition]
 {: .no_toc }
@@ -17,6 +17,10 @@ nav_order: 1
 </details>
 
 ## [The problem]
+
+Lorem ipsum ...
+
+
 
 ## [Our solution]
 
