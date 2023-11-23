@@ -3,32 +3,41 @@ title: Home
 nav_order: 0
 ---
 
-{: .attention }
-> Any text enclosed by `[ ]` are placeholders, including the opening and closing brackets.
->
-> You may delete this `attention` box.
 
-# [Project Name]
 
-[Project description]
+# Projekt Quizly
 
-## Team members
+### Projektbeschreibung:
+Quizspiel mit Multiple-Choice-Fragen, um das Wissen in der Freizeit zu maximieren und die Motivation durch ein Spiel zu steigern. Der Benutzer kann zwischen 3 Kategorien wählen: Geschichte, Allgemeinwissen, Mathematik. Hauptzielgruppe sind Schüler, Teenager oder Erwachsene, die ihr Allgemeinwissen verbessern, ihr Geschichtswissen erweitern oder ihre mathematischen Fähigkeiten trainieren möchten. Das Spiel eignet sich auch für die Zeitüberbrückung beim Warten auf den Bus oder um das Gedächtnis zu trainieren.
 
-### [Jane Dane]
+### Teammitglieder
 
-About
-: Some info about Jane
+Rayan Beydoun, Lana Karout, Birte Reich
 
-Matr.-Nr.
-: 1234567
 
-### [Joe Doe]
-
-About
-: Some info about Joe
+### Rayan Beydoun 
+Aufgabe
+: Design und UI
 
 Matr.-Nr.
-: 1234567
+: 7211931673
+
+### Lana Karout
+
+Aufgabe
+: Funktionalität der Web-Anwendung
+
+Matr.-Nr.
+: 77211917969
+
+### Birte Reich
+
+Aufgabe
+: Datenbank
+
+Matr.-Nr.
+: 77211919569
+
 
 ## Eidesstattliche Erklärung
 

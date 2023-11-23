@@ -8,7 +8,7 @@ Rayan Beydoun
 Birte Reich
 Lana Karout
 
-# [Value proposition]
+# Projektbeschreibung
 {: .no_toc }
 
 <details open markdown="block">
