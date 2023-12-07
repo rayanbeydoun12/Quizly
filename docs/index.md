@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Hauptseite
 nav_order: 0
 ---
 
