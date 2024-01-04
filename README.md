@@ -1,4 +1,4 @@
-# Quizly
+# VipVacation
 
 Team name : The Coders
 Contributors : Rayan Taha Beydoun, Lana Karout, Birte Reich
